@@ -51,8 +51,6 @@ Description: The paper utilizes a multivariate spectral clustering algorithm to 
 The dataset is sourced from AERONET and includes quality-assured measurements from 150 sites globally (1993–2022). It is hosted on Google Drive:
 Download Dataset
 
-# Program Details
-
 
 
 
